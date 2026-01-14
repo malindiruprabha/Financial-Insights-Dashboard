@@ -12,3 +12,4 @@ The goal of this project was to analyze a multi-country financial dataset to hel
 * **Cost Management:** Analysis of COGS vs. Gross Sales to monitor margin health.
 * **Regional Growth:** Visualizing which countries are meeting sales targets.
 
+
